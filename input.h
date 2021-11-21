@@ -1,5 +1,5 @@
 #ifndef INPUT_H
-#define INPUT_h
+#define INPUT_H
 #include "linkedlist.h"
 #include <stdio.h>
 #include <stdlib.h>
