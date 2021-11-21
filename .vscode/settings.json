@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "limits": "c",
+        "string.h": "c",
+        "linkedlist.h": "c",
+        "stdlib.h": "c",
+        "stdio.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
+}
